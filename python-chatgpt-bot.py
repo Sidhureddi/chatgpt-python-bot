@@ -5,9 +5,9 @@ import openai
 
 
 #Bot Api Token
-API_TOKEN = ''
+API_TOKEN = '5735972516:AAHBINiIyxaXMbKs9rQYlkBYIn24A8UIGlc'
 #Openai Api Key
-openai.api_key=""
+openai.api_key="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"
 
 
 bot = telebot.TeleBot(API_TOKEN)
